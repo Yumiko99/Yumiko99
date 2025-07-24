@@ -1,16 +1,24 @@
-## Hi there 👋
+ 🌸 Hello World, I'm Yumi 🌸
 
-<!--
-**Yumiko99/Yumiko99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  About me 
+Observing systems. Breaking patterns. Writing a language only machines understand.
+A quiet mind with a terminal always open.
+I don’t follow rules — I read the source.
 
-Here are some ideas to get you started:
+Breaking and building stuff (hello Hack The Box 👾)
+Writing clean C code (or trying to…)
+Drawing, editing, vlogging, and eating pierogi 🥟
+Working hard while dreaming big
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🌐 Let's connect
+[Website or portfolio soon!]
+
+
+📬 Me contacter 
+Instagram : Yumi_lrh
+
+
+  What about me?
+  
+No user manual for life. So I grep.  
+Invisible to you. Logged by me.
