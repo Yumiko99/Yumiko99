@@ -1,7 +1,7 @@
  🌸 Hello World, I'm Yumi 🌸
 
   About me 
-Observing systems. Breaking patterns. Writing a language only machines understand.
+Observing systems. Breaking patterns. Writing a language only machines understand.    
 A quiet mind with a terminal always open.
 I don’t follow rules — I read the source.
 
