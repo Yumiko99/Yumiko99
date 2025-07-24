@@ -6,7 +6,6 @@ A quiet mind with a terminal always open.
 I don’t follow rules — I read the source.
 
 Breaking and building stuff (hello Hack The Box 👾)
-
 Writing clean C code (or trying to…)
 
 Drawing, editing, vlogging, and eating pierogi 🥟
