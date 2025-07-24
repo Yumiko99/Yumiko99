@@ -1,7 +1,7 @@
  🌸 Hello World, I'm Yumi 🌸
 
-  About me 
-## What about me?  
+   
+## About me?  
 I’ve eaten 17 birthday cakes so far.  
 I’m a CS student at Epitech Bordeaux, somewhere between curiosity and code.  
 Passionate about infosec, cyber worlds, and systems that hide more than they show.  
