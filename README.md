@@ -1,24 +1,8 @@
  🌸 Hello World, I'm Yumi 🌸
 
   About me 
-Observing systems. Breaking patterns. Writing a language only machines understand.    
-A quiet mind with a terminal always open.      
-I don’t follow rules — I read the source.
-
-Breaking and building stuff (hello Hack The Box 👾)      
-Writing clean C code (or trying to…)        
-Drawing, editing, vlogging, and eating pierogi 🥟       
-Working hard while dreaming big      
-
-   🌐 Let's connect
-[Website or portfolio soon!]
-
-
-📬 Me contacter 
-Instagram : Yumi_lrh
-
-
-  What about me?
-  
-No user manual for life. So I grep.  
-Invisible to you. Logged by me.
+## What about me?  
+I’ve eaten 17 birthday cakes so far.  
+I’m a CS student at Epitech Bordeaux, somewhere between curiosity and code.  
+Passionate about infosec, cyber worlds, and systems that hide more than they show.  
+When I’m not in front of a terminal, I’m solving challenges on Hack The Box, vlogging, or creating in Blender.
